@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://vidhostpal.com/playlist?list=ANnn/$1"
+ }
+  ]
+}
